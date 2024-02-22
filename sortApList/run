@@ -1,0 +1,14 @@
+#!/bin/bash
+if [ $# -ne 1 ]
+then
+    echo -e  "./a apNums(1-MAX_NUMS)\n(MAX_NUMS可以修改)"
+    exit -1
+fi
+
+#产生指定数量的ap
+make --no-print-directory -C "./tests"
+./tests/generateAPlist "./resource/APlist.txt" $1
+
+#排序
+make
+./bin/sortAPList "./resource/APlist.txt"

@@ -1,0 +1,13 @@
+7   PuFwbxoTd3mi~Avn#EW-'!m.PPaG#    32:93:80:bd:2c:1a   WPA2PSK/AES            89       11b/g/n BELOW  In  NO      
+13                                   80:15:9b:0d:1e:7a   NONE                   53       11b/g/n BELOW  In YES      
+4   ?K<o-dp<qEAFn)r%B"OF}yin0        fa:8f:2c:72:e9:c1   WPA1PSKWPA2PSK/AES     31       11b/g/n ABOVE  In YES      
+5   _2^%S"pYt                        ee:2d:8f:68:e7:83   WPA1PSKWPA2PSK/TKIPAES 39       11b/g/n BELOW  In YES      
+6   L                                04:69:08:b0:03:fa   WPAPSK/AES             49       11b/g/n ABOVE  In YES      
+2   IFn:}c.vXR7Il<%;QfgJg~>Q@%1N     41:41:b7:a8:9d:cf   WPA1PSKWPA2PSK/AES     13       11b/g/n NONE   In YES      
+11  hOjRkmm=QRd9N$go&x>OzZ?@aJc      af:3a:77:32:c7:9c   WPA2PSK/AES            25       11b/g/n ABOVE  In YES      
+3   v79-c:tSAknmfF.$)XgV6            57:a9:34:37:68:84   WPA1PSKWPA2PSK/AES     95       11b/g/n BELOW  In  NO      
+2   3C0J9`h"LWhs                     f1:50:a6:00:fe:70   WPA1PSKWPA2PSK/TKIPAES 35       11b/g/n NONE   In  NO      
+14  ]g,u`B?pfO<|0"~                  ee:1b:bd:f0:ab:12   WEP                    36       11b/g/n ABOVE  In YES      
+1   a.NLl3U_sx~b\N{Y[}U              69:74:99:7b:59:db   WEP                    23       11b/g/n BELOW  In YES      
+7   PY9yCLP#>I"!&My                  a2:4f:0b:49:74:80   WPAPSK/AES             43       11b/g/n ABOVE  In YES      
+8   kj/Y<hp                          aa:09:c3:5e:09:6d   NONE                   28       11b/g/n NONE   In YES      
